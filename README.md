@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, C++, Python
+- **Languages:** TypeScript, JavaScript, C , Python
 - **Frontend:** Next.js, React, Tailwind CSS
 - **Backend:** Node.js, Express, MongoDB Vector Search, PostgreSQL
 - **Tools & Infra:** Cloudflare R2, Docker, Git, Linux
